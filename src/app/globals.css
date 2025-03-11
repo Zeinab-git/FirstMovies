@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #303030;
+  --foreground: #111111;
+  --buttoncolor: #DF2144;
+  --othercolor: #1EB7E8;
+  --textcolor: #FFFFFF;
+}
+
+
+/* Neon Effect */
+@layer utilities {
+  .neon {
+    text-shadow: 0 0px 20px rgba(205, 67, 67, 0.771), 0 0px 65px rgb(213, 12, 12)
+  }
+}
+
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+
+
+/* Navbar */
+
+.navbar {
+  color: var(--textcolor);
+  height: 85px;
+  padding: 27px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.btnNavbar {
+  width: 141px;
+  height: 36px;
+  border-radius: 12px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+}
+
+.divBtn {
+  display: flex;
+  gap: 15px;
+}
+
+.redBtn {
+  background-color: var(--buttoncolor);
+}
+
+.grayBtn {
+  border: 2px solid var(--buttoncolor);
+}
+
+
+
+
+
+/* Home Page */
+
+/* Hierosection */
+.divSection {
+  color: #200b20;
+  background-color: #FFFFFF;
+  position: relative;
+  top: 144px;
+  left: 1083px;
+}
+
+.flesh {
+  width: 45px;
+  height: 45px;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+}
+
+#points,
+#IMDB , .IMDb{
+  width: 20px;
+  height: 20px;
+}
+
+
+.scrollPart {
+  margin-right: 200px;
+  transition: all 450ms ease-in;
+  -webkit-transition: all 450ms ease-in;
+  -moz-transition: all 450ms ease-in;
+  -ms-transition: all 450ms ease-in;
+  -o-transition: all 450ms ease-in;
+}
+
+
+
+
+/* Sign Up Page */
+.signUp {
+  width: 290px;
+  height: 37px;
+  margin-bottom: 21px;
+  border: none;
+  border-radius: 12px;
+}
+
+
+
+
+/* Modal Part */
+.modal_show {
+  width: 340px;
+  position: absolute;
+  background-color: #fff313;
+  height: 75px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: #310505;
+  right: 15px;
+  top: 49px;
+  font-size: 20px;
+  padding-right: 17px;
+  padding-left: 15px;
+}

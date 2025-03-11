@@ -1,0 +1,700 @@
+{
+  "HieroSection": [
+    {
+      "id": "1",
+      "title": "Peaky Blinders",
+      "image": "/Images/Peaky(6).jpg",
+      "genre": "Drama",
+      "points": "8.8",
+      "time": "45m",
+      "summary": "Peaky Blinders is a 2013 British drama series that tells the story of the criminal gang of the same name. Led by Thomas Shelby, they control Birmingham during the 1920s and 1930s. Through bribery, violence, extortion and illegal trafficking, they consolidate "
+    },
+    {
+      "id": "2",
+      "title": "Oppenheimer 2023",
+      "image": "/Images/Oppenhiemer(1).jpg",
+      "genre": "Adventure",
+      "points": "8.3",
+      "time": "3h 5m",
+      "summary": "Oppenheimer is a 2023 epic biographical film written, produced, and directed by Christopher Nolan. It follows the life of J. Robert Oppenheimer, the American theoretical physicist who helped develop the first nuclear weapons during World War II."
+    },
+    {
+      "id": "3",
+      "title": "Ghosted",
+      "image": "/Images/Ghosted(2).jpg",
+      "genre": "Comedy Action",
+      "points": "5.8",
+      "time": "1h 56m",
+      "summary": "Cole finds himself smitten with the mysterious Sadie, but his world is turned upside down when he uncovers her secret identity as a covert operative. Despite their budding romance, Cole and Sadie are thrust into a global mission to rescue humanity, leaving little time for a follow-up date."
+    },
+    {
+      "id": "4",
+      "title": "Game Of Thrones",
+      "image": "/Images/GameOfThrones(4).jpg",
+      "genre": "Drama",
+      "points": "9.2",
+      "time": "60m",
+      "summary": "The planet on which Westeros is found has seasons of variable lengths, with summers and winters often lasting for many years.The series focuses on several noble houses of Westeros and a complicated, multiparty war for the Iron Throne that features shifting conflicts, alliances, and betrayals"
+    },
+    {
+      "id": "5",
+      "title": "From",
+      "image": "/Images/From(4).jpg",
+      "genre": "Horror",
+      "points": "7.8",
+      "time": "46m",
+      "summary": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest."
+    },
+    {
+      "id": "6",
+      "title": "The 100",
+      "image": "/Images/The 100 (2).jpg",
+      "genre": "Sciense fiction",
+      "points": "7.5",
+      "time": "47m",
+      "summary": "The 100 follows post-apocalyptic survivors from a space habitat, the Ark, who return to Earth nearly a century after a devastating nuclear apocalypse. The first people sent to Earth are a group of juvenile delinquents who encounter descendants of survivors of the nuclear disaster on the ground."
+    },
+    {
+      "id": "7",
+      "title": "Lift",
+      "image": "/Images/Lift(2).jpeg",
+      "genre": "Comedy",
+      "points": "5.5",
+      "time": "1h 46m",
+      "summary": "Follows a master thief and his Interpol Agent ex-girlfriend who team up to steal $500 million in gold bullion being transported on an A380 passenger flight. Follows a master thief and his Interpol Agent ex-girlfriend who team up to steal $500 million in gold bullion being transported on an A380 passenger flight."
+    },
+    {
+      "id": "8",
+      "title": "Squid game",
+      "image": "/Images/SquidGame(2).jpg",
+      "genre": "Horror Adventure",
+      "points": "8",
+      "time": "50m",
+      "summary": "It revolves around a secret contest where 456 players, all of whom are in deep financial hardship, risk their lives to play a series of deadly children's games for the chance to win a ₩45.6 billion cash prize, ₩100 million per contestant."
+    }
+  ],
+  "Movies": [
+    {
+      "id": "1",
+      "title": "Oppenheimer 2023",
+      "image": "/Images/Movie(1).png",
+      "genre": "Adventure",
+      "points": "8.3",
+      "time": "3h 5m"
+    },
+    {
+      "id": "2",
+      "title": "Avatar The Way Of...",
+      "image": "/Images/Movie(2).png",
+      "genre": "Sciense fiction",
+      "points": "7.7",
+      "time": "3h 12m"
+    },
+    {
+      "id": "3",
+      "title": "Killers Of The Flower...",
+      "image": "/Images/Movie(3).png",
+      "genre": "Drama",
+      "points": "8",
+      "time": "3h 26m"
+    },
+    {
+      "id": "4",
+      "title": "Tick Tick... Boom 2021",
+      "image": "/Images/Movie(4).png",
+      "genre": "Drama",
+      "points": "7.5",
+      "time": "1h 55m"
+    },
+    {
+      "id": "5",
+      "title": "Mission impossible",
+      "image": "/Images/Movie(5).png",
+      "genre": "Action",
+      "points": "7.7",
+      "time": "2h 3m"
+    },
+    {
+      "id": "6",
+      "title": "Prisoners",
+      "image": "/Images/Movie(6).png",
+      "genre": "Criminal",
+      "points": "8.1",
+      "time": "2h 26m"
+    },
+    {
+      "id": "7",
+      "title": "The Batman",
+      "image": "/Images/Movie(7).png",
+      "genre": "Action",
+      "points": "7.8",
+      "time": "2h 29m"
+    },
+    {
+      "id": "8",
+      "title": "Joker",
+      "image": "/Images/Movie(8).png",
+      "genre": "Drama",
+      "points": "8.4",
+      "time": "3h 2m"
+    },
+    {
+      "id": "9",
+      "title": "Shutter Island",
+      "image": "/Images/Movie(9).png",
+      "genre": "Psochological",
+      "points": "8.2",
+      "time": "2h 18m"
+    },
+    {
+      "id": "10",
+      "title": "Brothers",
+      "image": "/Images/Movie(10).png",
+      "genre": "Psochological",
+      "points": "7.1",
+      "time": "1h 45m"
+    }
+  ],
+  "Series": [
+    {
+      "id": "1",
+      "title": "Planet Earth III",
+      "image": "/Images/Series(1).png",
+      "genre": "Documentary",
+      "points": "9.3",
+      "time": "50m"
+    },
+    {
+      "id": "2",
+      "title": "The Last Of Us",
+      "image": "/Images/Series(2).png",
+      "genre": "Adventure",
+      "points": "8.8",
+      "time": "50m"
+    },
+    {
+      "id": "3",
+      "title": "The Lord Of The Ri...",
+      "image": "/Images/Series(3).png",
+      "genre": "Fantasy",
+      "points": "7",
+      "time": "1h"
+    },
+    {
+      "id": "4",
+      "title": "Reacher",
+      "image": "/Images/Series(4).png",
+      "genre": "Action",
+      "points": "8.1",
+      "time": "45m"
+    },
+    {
+      "id": "5",
+      "title": "House Of The Dragon",
+      "image": "/Images/Series(5).png",
+      "genre": "Drama",
+      "points": "8.3",
+      "time": "60m"
+    },
+    {
+      "id": "6",
+      "title": "Breaking Bad",
+      "image": "/Images/Series(6).png",
+      "genre": "Drama",
+      "points": "9.5",
+      "time": "50m"
+    },
+    {
+      "id": "7",
+      "title": "Vikings",
+      "image": "/Images/Series(7).png",
+      "genre": "Action",
+      "points": "8.5",
+      "time": "60m"
+    },
+    {
+      "id": "8",
+      "title": "Peaky Blinders",
+      "image": "/Images/Series(8).png",
+      "genre": "Drama",
+      "points": "8.8",
+      "time": "45m"
+    },
+    {
+      "id": "9",
+      "title": "Game Of Thr...",
+      "image": "/Images/Series(9).png",
+      "genre": "Drama",
+      "points": "9.2",
+      "time": "60m"
+    },
+    {
+      "id": "10",
+      "title": "Friends",
+      "image": "/Images/Series(10).png",
+      "genre": "Comedy",
+      "points": "8.9",
+      "time": "30m"
+    }
+  ],
+  "Animations": [
+    {
+      "id": "1",
+      "title": "What If...?",
+      "image": "/Images/Animation(1).png",
+      "gener": "Animation",
+      "points": "7.4",
+      "time": "32m"
+    },
+    {
+      "id": "2",
+      "title": "Spiderman: Across The ...",
+      "image": "/Images/Animation(2).png",
+      "gener": "Animation",
+      "points": "8.7",
+      "time": "2h 20m"
+    },
+    {
+      "id": "3",
+      "title": "Attack On Titan",
+      "image": "/Images/Animation(3).png",
+      "gener": "Animation",
+      "points": "9.1",
+      "time": "24m"
+    },
+    {
+      "id": "4",
+      "title": "Sonic The Hedgehg ...",
+      "image": "/Images/Animation(4).png",
+      "gener": "Animation",
+      "points": "6.5",
+      "time": "2h 3m"
+    },
+    {
+      "id": "5",
+      "title": "Migration",
+      "image": "/Images/Animation(5).png",
+      "gener": "Animation",
+      "points": "8.7",
+      "time": "2h 51m"
+    },
+    {
+      "id": "6",
+      "title": "Turbo",
+      "image": "/Images/Animation(6).png",
+      "gener": "Animation",
+      "points": "6.4",
+      "time": "1h 36m"
+    },
+    {
+      "id": "7",
+      "title": "Despicable M...",
+      "image": "/Images/Animation(7).png",
+      "gener": "Animation",
+      "points": "6.4",
+      "time": "1h 24m"
+    },
+    {
+      "id": "8",
+      "title": "Kung Fu Panda",
+      "image": "/Images/Animation(8).png",
+      "gener": "Animation",
+      "points": "8.5",
+      "time": "2h 20m"
+    },
+    {
+      "id": "9",
+      "title": "Moana",
+      "image": "/Images/Moana.jpg",
+      "gener": "Animation",
+      "points": "7.6",
+      "time": "1h 47m"
+    },
+    {
+      "id": "10",
+      "title": "Hotel Transylvania",
+      "image": "/Images/Hotel transilvania.jpg",
+      "gener": "Animation",
+      "points": "7",
+      "time": "1h 31m"
+    }
+  ],
+  "ActionMovie&Serie": [
+    {
+      "id": "1",
+      "title": "The Boys",
+      "image": "/Images/ActionMovi&Serie(1).png",
+      "gener": "Action",
+      "points": "8.7",
+      "time": "60m"
+    },
+    {
+      "id": "2",
+      "title": "Spiderman No Way Home",
+      "image": "/Images/ActionMovi&Serie(2).png",
+      "gener": "Action",
+      "points": "8.2",
+      "time": "2h 28m"
+    },
+    {
+      "id": "3",
+      "title": "Avengers: Endgame",
+      "image": "/Images/ActionMovi&Serie(3).png",
+      "gener": "Action",
+      "points": "8.4",
+      "time": "3h 2m"
+    },
+    {
+      "id": "4",
+      "title": "John Wick: Chapter 4",
+      "image": "/Images/ActionMovi&Serie(4).png",
+      "gener": "Action",
+      "points": "7.7",
+      "time": "2h 49m"
+    },
+    {
+      "id": "5",
+      "title": "The Witcher",
+      "image": "/Images/Series(11).png",
+      "genre": "Action",
+      "points": "8",
+      "time": "60m"
+    },
+    {
+      "id": "6",
+      "title": "Loki",
+      "image": "/Images/Series(12).png",
+      "genre": "Action",
+      "points": "8.2",
+      "time": "50m"
+    },
+    {
+      "id": "7",
+      "title": "The meg",
+      "image": "/Images/Meg.jpg",
+      "genre": "Action",
+      "points": "5.7",
+      "time": "2h 15m"
+    },
+    {
+      "id": "8",
+      "title": "The gorge",
+      "image": "/Images/Gorge.jpg",
+      "genre": "Action",
+      "points": "6.7",
+      "time": "2h 7m"
+    },
+    {
+      "id": "9",
+      "title": "Lucy",
+      "image": "/Images/Lucy.jpg",
+      "genre": "Action",
+      "points": "6.4",
+      "time": "1h 29m"
+    },
+    {
+      "id": "10",
+      "title": "Aquaman",
+      "image": "/Images/Aquaman.jpg",
+      "genre": "Action",
+      "points": "6.8",
+      "time": "2h 23m"
+    }
+  ],
+  "DramaMovie&Serie": [
+    {
+      "id": "1",
+      "title": "Chenobyl",
+      "image": "/Images/DramMovie&Serie.png",
+      "genre": "Drama",
+      "points": "9.3",
+      "time": "60m"
+    },
+    {
+      "id": "2",
+      "title": "Joker",
+      "image": "/Images/DramMovi&Serie(1).png",
+      "genre": "Drama",
+      "points": "8.4",
+      "time": "2h 2m"
+    },
+    {
+      "id": "3",
+      "title": "Stranger Things",
+      "image": "/Images/DramMovi&Serie(2).png",
+      "genre": "Drama",
+      "points": "8.7",
+      "time": "50m"
+    },
+    {
+      "id": "4",
+      "title": "1917",
+      "image": "/Images/DramMovi&Serie(3).png",
+      "genre": "Drama",
+      "points": "8.2",
+      "time": "1h 59m"
+    },
+    {
+      "id": "5",
+      "title": "Top Gun: Maverick",
+      "image": "/Images/DramMovi&Serie(4).png",
+      "genre": "Drama",
+      "points": "8.3",
+      "time": "2h 11m"
+    },
+    {
+      "id": "6",
+      "title": "Uglies",
+      "image": "/Images/Uglies.jpg",
+      "genre": "Drama",
+      "points": "4.7",
+      "time": "1h 42m"
+    },
+    {
+      "id": "7",
+      "title": "We live in time",
+      "image": "/Images/We live in time.jpg",
+      "genre": "Drama",
+      "points": "7",
+      "time": "1h 48m"
+    },
+    {
+      "id": "8",
+      "title": "13 reason why",
+      "image": "/Images/13ReasonWhy.jpg",
+      "genre": "Drama",
+      "points": "7.4",
+      "time": "1h"
+    },
+    {
+      "id": "9",
+      "title": "Divergent",
+      "image": "/Images/Divergent.jpg",
+      "genre": "Drama",
+      "points": "6.6",
+      "time": "2h 19m"
+    },
+    {
+      "id": "10",
+      "title": "Inception",
+      "image": "/Images/Inception.jpg",
+      "genre": "Drama",
+      "points": "2h 28m",
+      "time": "8.8"
+    }
+  ],
+  "ComedyMovie&Serie": [
+    {
+      "id": "1",
+      "title": "Ted Lasso",
+      "image": "/Images/ComedyMovi&Serie(1).png",
+      "genre": "Comedy",
+      "points": "8.8",
+      "time": "30m"
+    },
+    {
+      "id": "2",
+      "title": "Red Notice",
+      "image": "/Images/ComedyMovi&Serie(2).png",
+      "genre": "Comedy",
+      "points": "6.3",
+      "time": "1h 58m"
+    },
+    {
+      "id": "3",
+      "title": "Jumanji The Next Level",
+      "image": "/Images/ComedyMovi&Serie(3).png",
+      "genre": "Comedy",
+      "points": "6.7",
+      "time": "2h 3m"
+    },
+    {
+      "id": "4",
+      "title": "Why Him?",
+      "image": "/Images/ComedyMovi&Serie(4).png",
+      "genre": "Comedy",
+      "points": "6.2",
+      "time": "1h 21m"
+    },
+    {
+      "id": "5",
+      "title": "The Ground Tour",
+      "image": "/Images/ComedyMovie&Serie(5).png",
+      "genre": "Comedy",
+      "points": "8.7",
+      "time": "60m"
+    },
+    {
+      "id": "6",
+      "title": "We are the millers",
+      "image": "/Images/We are the millers.jpg",
+      "genre": "Comedy",
+      "points": "7",
+      "time": "1h 48m"
+    },
+    {
+      "id": "7",
+      "title": "Grown ups",
+      "image": "/Images/Grown ups.jpg",
+      "genre": "Comedy",
+      "points": "6",
+      "time": "1h 42m"
+    },
+    {
+      "id": "8",
+      "title": "The family plane",
+      "image": "/Images/FamilyPlan.jpg",
+      "genre": "Comedy",
+      "points": "6.3",
+      "time": "1h 58m"
+    },
+    {
+      "id": "9",
+      "title": "Our little secret",
+      "image": "/Images/OurLittleSecret.jpg",
+      "genre": "Comedy",
+      "points": "5.7",
+      "time": "1h 41m"
+    },
+    {
+      "id": "10",
+      "title": "IF",
+      "image": "/Images/IF.jpg",
+      "genre": "Comedy",
+      "points": "6.4",
+      "time": "1h 44m"
+    }
+  ],
+  "HorrorMovie&Serie": [
+    {
+      "id": "1",
+      "title": "Hannibal",
+      "image": "/Images/HorrorMovie&Serie(1).png",
+      "genre": "Horror",
+      "points": "8.5",
+      "time": "44m"
+    },
+    {
+      "id": "2",
+      "title": "It Chapter Two",
+      "image": "/Images/HorrorMovie&Serie(2).png",
+      "genre": "Horror",
+      "points": "6.5",
+      "time": "2h 49m"
+    },
+    {
+      "id": "3",
+      "title": "Get Out",
+      "image": "/Images/HorrorMovie&Serie(3).png",
+      "genre": "Horror",
+      "points": "7.8",
+      "time": "1h 44m"
+    },
+    {
+      "id": "4",
+      "title": "The Menu",
+      "image": "/Images/HorrorMovie&Serie(4).png",
+      "genre": "Horror",
+      "points": "7.2",
+      "time": "1h 46m"
+    },
+    {
+      "id": "5",
+      "title": "Moon Knight",
+      "image": "/Images/Moon knight.jpg",
+      "genre": "Horror",
+      "points": "7.3",
+      "time": "50m"
+    },
+    {
+      "id": "6",
+      "title": "Stalker",
+      "image": "/Images/Stalker.jpg",
+      "genre": "Horror",
+      "points": "8",
+      "time": "2h 42m"
+    },
+    {
+      "id": "7",
+      "title": "smile2",
+      "image": "/Images/Smile.jpg",
+      "genre": "Horror",
+      "points": "6.7",
+      "time": "2h 7m"
+    },
+    {
+      "id": "8",
+      "title": "The walking dead",
+      "image": "/Images/Walking dead.jpg",
+      "genre": "Horror",
+      "points": "8.1",
+      "time": "45m"
+    },
+    {
+      "id": "9",
+      "title": "Imaginary",
+      "image": "/Images/Imaginary.jpg",
+      "genre": "Horror",
+      "points": "4.7",
+      "time": "1h 44m"
+    },
+    {
+      "id": "10",
+      "title": "Die alone",
+      "image": "/Images/DieAlone.jpg",
+      "genre": "Horror",
+      "points": "5.7",
+      "time": "1h 31m"
+    }
+  ],
+  "Baner": [
+    {
+      "id": "1",
+      "title": "Peaky Blinders",
+      "image": "/Images/Peaky(3).jpg",
+      "genre": "Drama",
+      "points": "8.8",
+      "time": "45m",
+      "summary": "Peaky Blinders is a 2013 British drama series that tells the story of the criminal gang of the same name. Led by Thomas Shelby, they control Birmingham during the 1920s and 1930s. Through bribery, violence, extortion and illegal trafficking, they consolidate "
+    },
+    {
+      "id": "2",
+      "title": "The walking dead : Daryl dixon",
+      "image": "/Images/Daryl(4).jpg",
+      "genre": "Horror",
+      "points": "8.1",
+      "time": "45m",
+      "summary": "Premise. Daryl washes ashore in France (the origin of the zombie virus) and struggles to piece together how he got there and why. The series tracks his journey across a broken but resilient France as he hopes to find a way back home."
+    },
+    {
+      "id": "3",
+      "title": "Squid game 2 ",
+      "image": "/Images/SquidGame(4).jpg",
+      "genre": "Adventure ",
+      "points": "8",
+      "time": "50m",
+      "summary": "It revolves around a secret contest where 456 players, all of whom are in deep financial hardship, risk their lives to play a series of deadly children's games for the chance to win a ₩45.6 billion cash prize, ₩100 million per contestant."
+    },
+    {
+      "id": "4",
+      "title": "Insid Out 2",
+      "image": "/Images/InsideOut2(2).jpg",
+      "genre": "Animation",
+      "points": "7.5",
+      "time": "1h 36m",
+      "summary": "On the cusp of entering high school, Riley's world is about to change from the inside out. If Joy and the rest of Riley's Emotions thought her toddler years were tough – they're in for a wild ride. New friends, tryouts, and puberty – all while navigating a complex set of new emotions… what could go wrong?"
+    }
+  ],
+  "Users": [
+    {
+      "id": "1",
+      "email": "zmzeinabi31318@gmail.com",
+      "password": "Salam?20"
+    },
+    {
+      "id": 263,
+      "email": "lil@gmail.com",
+      "password": "8521478996"
+    }
+  ]
+}
