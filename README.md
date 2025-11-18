@@ -1,3 +1,5 @@
+FirstMovies is a movie and series download site and is being developed using Next and TypeScript.  
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
